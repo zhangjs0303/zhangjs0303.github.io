@@ -11,4 +11,4 @@ A static academic homepage with a retro Frutiger Aero city-future visual directi
 
 ## Page content
 
-The page includes Junshuo Zhang's public GitHub profile, the research direction “Neural dynamics as a sampling,” and contact links. The visual system combines a bright Aero cityscape, a glass sphere, glossy highlights, and translucent glass panels.
+The page includes Junshuo Zhang's public GitHub profile, the research direction “Neural dynamics as a sampling,” and contact links. The visual system combines a glass-water Aero cityscape, a glass sphere, glossy highlights, and translucent glass panels.
