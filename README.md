@@ -1,6 +1,6 @@
 # zhangjs0303.github.io
 
-这是一个可直接发布到 GitHub Pages 的静态学术主页，当前视觉方向为复古 Frutiger Aero。
+这是一个可直接发布到 GitHub Pages 的静态学术主页，当前视觉方向为复古 Frutiger Aero 城市未来感。
 
 ## 发布
 
@@ -11,7 +11,7 @@
 
 ## 当前页面内容
 
-页面已根据 GitHub 公开资料放入 `Junshuo Zhang`、GitHub 主页，以及当前研究方向 `Neural dynamics as a sampling`。主视觉使用蓝天、草地、水面、透明气泡和玻璃球等 Frutiger Aero 元素。
+页面已根据 GitHub 公开资料放入 `Junshuo Zhang`、GitHub 主页，以及当前研究方向 `Neural dynamics as a sampling`。主视觉使用蓝天、玻璃城市、水面、绿色丘陵、透明气泡和 Aero 光带等元素，内容区使用透明玻璃窗口。
 
 ## 建议补充的内容
 
